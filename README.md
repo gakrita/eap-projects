@@ -7,6 +7,6 @@
 - [Εργασία 1 – Scratch Storytelling](./ergasia-1/)
 - [Εργασία 2 – Micro:bit – Σχέδιο Μικροδιδασκαλίας](./ergasia-2/)
 - [Εργασία 3 – Tinkercad - e-learning](./ergasia-3/)
-- [Εργασία 4 – Evaluation](./ergasia-4/)
+- [Εργασία 4 – Evaluation Project](./ergasia-4/)
 
 Κάθε εργασία συνοδεύεται από PDF/DOCX με screenshots, τεκμηρίωση και όπου εφαρμόζεται, σύνδεσμο στο σχετικό project (π.χ. Scratch).
