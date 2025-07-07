@@ -9,4 +9,4 @@
 - [Εργασία 3 – Tinkercad - e-learning](./ergasia-3/)
 - [Εργασία 4 – Evaluation Project](./ergasia-4/)
 
-Κάθε εργασία συνοδεύεται από DOCX με screenshots, τεκμηρίωση και όπου εφαρμόζεται, σύνδεσμο στο σχετικό project (π.χ. Scratch).
+Κάθε εργασία συνοδεύεται από αρχεία DOCX με screenshots, τεκμηρίωση και όπου εφαρμόζεται, σύνδεσμο στο σχετικό project (π.χ. Scratch).
